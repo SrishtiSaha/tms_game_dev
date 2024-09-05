@@ -1,2 +1,3 @@
-# tms_game_dev
+# Team Melee Shells - 2D slow platformer 
 Repo for game assets and code for the 2D slow platformer
+Readme will be updated soon...
