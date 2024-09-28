@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 87872d3aeeaf24c71a98c3afc481bad4, type: 3}
   m_Name: View_Main
   m_EditorClassIdentifier: 
-  theme: {fileID: 11400000, guid: 72526d458a0114e2a9e7edad796003bf, type: 2}
+  theme: {fileID: 0}
   padding:
     m_Left: 40
     m_Right: 40

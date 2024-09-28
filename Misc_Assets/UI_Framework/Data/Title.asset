@@ -13,5 +13,5 @@ MonoBehaviour:
   m_Name: Title
   m_EditorClassIdentifier: 
   theme: {fileID: 11400000, guid: 72526d458a0114e2a9e7edad796003bf, type: 2}
-  font: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  size: 75
+  font: {fileID: 11400000, guid: dabf3e3ff77784ced907c2749001e8c7, type: 2}
+  size: 45

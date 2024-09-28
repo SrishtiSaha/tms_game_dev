@@ -9,9 +9,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 1304d87bf223c4ee6b2c0aab3855ed4f, type: 3}
-  m_Name: Header
+  m_Script: {fileID: 11500000, guid: 537e84436adf949d6831ea2bb3baa435, type: 3}
+  m_Name: OnClickDecreasedHealth
   m_EditorClassIdentifier: 
-  theme: {fileID: 11400000, guid: 72526d458a0114e2a9e7edad796003bf, type: 2}
-  font: {fileID: 11400000, guid: a2cb0329e67b44cde8122dd5f1da4159, type: 2}
-  size: 40
+  listeners: []
