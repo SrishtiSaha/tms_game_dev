@@ -31,10 +31,6 @@ namespace TMS_UI
         {
             verticalLayoutGroup.padding = viewData.padding;
             verticalLayoutGroup.spacing = viewData.spacing;
-
-            imageTop.color = viewData.theme.primary_bg;
-            imageCenter.color = viewData.theme.secondary_bg;
-            imageBottom.color = viewData.theme.tertiary_bg;
         }
 
     }
